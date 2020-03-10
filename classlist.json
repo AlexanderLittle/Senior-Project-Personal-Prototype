@@ -1,0 +1,86 @@
+[
+  {
+    "CRN": "42193",
+    "Subj": "MATH",
+    "Sect": "3",
+    "Title": "REASONING WITH FUNCTIONS",
+    "Prof": "Nigen, Mark"
+  },
+  {
+    "CRN": "43001",
+    "Subj": "PHYS",
+    "Sect": "6",
+    "Title": "INTRODUCTORY MECHANICS",
+    "Prof": "Guess, Carol Jeanne"
+  },
+  {
+    "CRN": "42433",
+    "Subj": "PSY",
+    "Sect": "2",
+    "Title": "COGNITIVE PSYCHOLOGY",
+    "Prof": "Yingst, Jamess"
+  },
+  {
+    "CRN": "42393",
+    "Subj": "PSY",
+    "Sect": "3",
+    "Title": "STATISTICS IN PSYCHOLOGY",
+    "Prof": "Diorio, Sarah"
+  },
+  {
+    "CRN": "43618",
+    "Subj": "ACC",
+    "Sect": "1",
+    "Title": "PRINCIPLES OF ACCTG II",
+    "Prof": "Hughes, Diane"
+  },
+  {
+    "CRN": "43597",
+    "Subj": "ACC",
+    "Sect": "1",
+    "Title": "INTERMEDIATE ACCTG I",
+    "Prof": "Romeo, George"
+  },
+  {
+    "CRN": "43608",
+    "Subj": "ACC",
+    "Sect": "1",
+    "Title": "ACCTG INFO SYSTEMS",
+    "Prof": "Jacobs, Jake"
+  },
+  {
+    "CRN": "43566",
+    "Subj": "FIN",
+    "Sect": "1",
+    "Title": "PRINCIPLES OF FINANCE",
+    "Prof": "Sagedy, Robert Andrew"
+  },
+  {
+    "CRN": "43555",
+    "Subj": "FIN",
+    "Sect": "1",
+    "Title": "FINANCIAL MANAGEMENT I",
+    "Prof": "Uygur, Ozge"
+  },
+  {
+    "CRN": "43454",
+    "Subj": "MGT",
+    "Sect": "1",
+    "Title": "OPERATIONS MGMT",
+    "Prof": "Lee, Jooh"
+  },
+  {
+    "CRN": "43414",
+    "Subj": "MGT",
+    "Sect": "2",
+    "Title": "BUSINESS POLICY",
+    "Prof": "Fleming, Robert S."
+  },
+  {
+    "CRN": "43558",
+    "Subj": "MIS",
+    "Sect": "1",
+    "Title": "MANAGEMENT INFORMATION SYSTEMS",
+    "Prof": "Shen, Yide"
+  }
+]
